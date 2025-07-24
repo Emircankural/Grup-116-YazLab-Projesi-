@@ -1,4 +1,3 @@
-# Grup-116-YazLab-Projesi-
 ### README
 
 # Tarif Toplama Web Kazıma Projesi
